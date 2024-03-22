@@ -1,1 +1,1 @@
-# CSharpCourse
+With this video series, I wrote codes to learn the C# programming language. In these codes, you can find codes containing the general structures of the programming language and OOP work, along with explanatory comment lines.
